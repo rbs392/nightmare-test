@@ -1,0 +1,12 @@
+{
+	"nightmare": {
+		"javascript" 	: true,
+		"webSecurity" 	: false,
+		"images" 		: false,
+		"allowDisplayingInsecureContent" : true,
+		"show": true,
+		"openDevTools": true
+	},
+	"workerCount": 4,
+	"maxWaitTime" : 4000
+}
